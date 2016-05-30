@@ -1,0 +1,7 @@
+c:\users\mihai\documents\visual studio 2010\Projects\WizardMvc\WizardMvc\bin\WizardMvc.dll
+c:\users\mihai\documents\visual studio 2010\Projects\WizardMvc\WizardMvc\bin\WizardMvc.pdb
+c:\users\mihai\documents\visual studio 2010\Projects\WizardMvc\WizardMvc\bin\WizardMvc.Domain.dll
+c:\users\mihai\documents\visual studio 2010\Projects\WizardMvc\WizardMvc\bin\WizardMvc.Domain.pdb
+c:\users\mihai\documents\visual studio 2010\Projects\WizardMvc\WizardMvc\obj\Debug\WizardMvc.WebUI.csprojResolveAssemblyReference.cache
+c:\users\mihai\documents\visual studio 2010\Projects\WizardMvc\WizardMvc\obj\Debug\WizardMvc.dll
+c:\users\mihai\documents\visual studio 2010\Projects\WizardMvc\WizardMvc\obj\Debug\WizardMvc.pdb

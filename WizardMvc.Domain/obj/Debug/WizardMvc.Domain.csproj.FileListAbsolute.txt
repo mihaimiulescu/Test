@@ -1,0 +1,4 @@
+c:\users\mihai\documents\visual studio 2010\Projects\WizardMvc\WizardMvc.Domain\bin\WizardMvc.Domain.dll
+c:\users\mihai\documents\visual studio 2010\Projects\WizardMvc\WizardMvc.Domain\bin\WizardMvc.Domain.pdb
+c:\users\mihai\documents\visual studio 2010\Projects\WizardMvc\WizardMvc.Domain\obj\Debug\WizardMvc.Domain.dll
+c:\users\mihai\documents\visual studio 2010\Projects\WizardMvc\WizardMvc.Domain\obj\Debug\WizardMvc.Domain.pdb

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WizardMvc.Domain", "WizardMvc.Domain\WizardMvc.Domain.csproj", "{4C6935B3-5A81-4E71-9EB9-4A8BC80007A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WizardMvc.WebUI", "WizardMvc\WizardMvc.WebUI.csproj", "{928F2482-82D2-49FC-8839-68C24CCC4A91}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C6935B3-5A81-4E71-9EB9-4A8BC80007A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C6935B3-5A81-4E71-9EB9-4A8BC80007A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C6935B3-5A81-4E71-9EB9-4A8BC80007A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C6935B3-5A81-4E71-9EB9-4A8BC80007A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{928F2482-82D2-49FC-8839-68C24CCC4A91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{928F2482-82D2-49FC-8839-68C24CCC4A91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{928F2482-82D2-49FC-8839-68C24CCC4A91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{928F2482-82D2-49FC-8839-68C24CCC4A91}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
